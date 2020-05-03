@@ -5,8 +5,6 @@ package leetcode
 
     A defanged IP address replaces every period "." with "[.]".
 
-
-
     Example 1:
 
     Input: address = "1.1.1.1"
