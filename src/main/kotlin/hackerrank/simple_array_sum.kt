@@ -1,3 +1,5 @@
+package hackerrank
+
 /**
 Given an array of integers, find the sum of its elements.
 
@@ -5,9 +7,9 @@ For example, if the array , , so return .
 
 Function Description
 
-Complete the simpleArraySum function in the editor below. It must return the sum of the array elements as an integer.
+Complete the hackerrank.simpleArraySum function in the editor below. It must return the sum of the array elements as an integer.
 
-simpleArraySum has the following parameter(s):
+hackerrank.simpleArraySum has the following parameter(s):
 
 ar: an array of integers
 Input Format
@@ -23,14 +25,10 @@ Output Format
 Print the sum of the array's elements as a single integer.
  */
 
-import java.io.*
-import java.math.*
-import java.text.*
 import java.util.*
-import java.util.regex.*
 
 /*
- * Complete the simpleArraySum function below.
+ * Complete the hackerrank.simpleArraySum function below.
  */
 fun simpleArraySum(ar: Array<Int>): Int {
     /*

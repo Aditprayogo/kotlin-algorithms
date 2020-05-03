@@ -1,9 +1,11 @@
+package hackerrank
+
 /**
-    Complete the function solveMeFirst to compute the sum of two integers.
+    Complete the function hackerrank.solveMeFirst to compute the sum of two integers.
 
     Function prototype:
 
-    int solveMeFirst(int a, int b);
+    int hackerrank.solveMeFirst(int a, int b);
 
     where,
 

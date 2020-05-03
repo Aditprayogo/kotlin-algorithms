@@ -1,3 +1,5 @@
+package hackerrank
+
 /**
 Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
@@ -12,7 +14,7 @@ Function description
 
 Complete the  function in the editor below. It must return an integer representing the absolute diagonal difference.
 
-diagonalDifference takes the following parameter:
+hackerrank.diagonalDifference takes the following parameter:
 
 arr: an array of integers .
 Input Format
@@ -56,28 +58,14 @@ Note: |x| is the absolute value of x
 
  */
 
-import java.io.*
-import java.math.*
-import java.security.*
-import java.text.*
-import java.util.*
-import java.util.concurrent.*
-import java.util.function.*
-import java.util.regex.*
-import java.util.stream.*
 import kotlin.collections.*
-import kotlin.comparisons.*
 import kotlin.io.*
-import kotlin.jvm.*
-import kotlin.jvm.functions.*
-import kotlin.jvm.internal.*
 import kotlin.math.abs
 import kotlin.ranges.*
-import kotlin.sequences.*
 import kotlin.text.*
 
 /*
- * Complete the 'diagonalDifference' function below.
+ * Complete the 'hackerrank.diagonalDifference' function below.
  *
  * The function is expected to return an INTEGER.
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.
